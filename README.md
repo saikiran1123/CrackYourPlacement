@@ -20,8 +20,6 @@ As of now, I have solved 23 DSA problems and achieved Rank 1 in the challenge. I
 - **LeetCode ID:** [Saikiran_23_](https://leetcode.com/u/Saikiran_23_/)
 - **GeeksForGeeks ID:** [ksaikiran247](https://www.geeksforgeeks.org/user/ksaikiran247/)
 
-- https://www.geeksforgeeks.org/user/ksaikiran247/
-
 
 Feel free to follow my journey and review my solutions. If you have any questions or suggestions, please do not hesitate to reach out.
 
