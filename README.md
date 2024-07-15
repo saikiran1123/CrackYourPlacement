@@ -17,7 +17,7 @@ As of now, I have solved 23 DSA problems and achieved Rank 1 in the challenge. I
 
 ## Connect with Me
 
-- **LeetCode ID:** [Saikiran_23_]([https://leetcode.com/u/Saikiran_23_/])
+- **LeetCode ID:** [Saikiran_23_](https://leetcode.com/u/Saikiran_23_/)
 
 
 Feel free to follow my journey and review my solutions. If you have any questions or suggestions, please do not hesitate to reach out.
